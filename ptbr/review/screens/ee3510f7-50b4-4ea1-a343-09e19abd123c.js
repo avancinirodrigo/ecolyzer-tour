@@ -39,7 +39,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_1_0"><br />Nessa vistualiza&ccedil;&atilde;o prove a lista de elementos referenci&aacute;veis da classe da API selecionada.<br /><br />Selecione o m&eacute;todo mais utilizado.</span>\
+                <span id="rtr-s-Rectangle_1_0"><br />Essa vistualiza&ccedil;&atilde;o prove a lista de elementos referenci&aacute;veis da classe da API selecionada.<br /><br />Selecione o m&eacute;todo mais utilizado.</span>\
               </div>\
             </div>\
           </div>\

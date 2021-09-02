@@ -64,7 +64,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
               <div id="shapert-s-Callout_2" class="content firer" >\
                   <div class="valign">\
-                      <span id="rtr-s-Callout_2_0">Elementos referenci&aacute;veis da classe da API que possu&eacute;m relaciomentos com a classe dependente.<br /><br /></span>\
+                      <span id="rtr-s-Callout_2_0">Elementos referenci&aacute;veis da classe da API que possuem relaciomentos com a classe dependente.<br /><br /></span>\
                   </div>\
               </div>\
           </div>\

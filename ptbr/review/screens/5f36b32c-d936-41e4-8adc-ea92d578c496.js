@@ -36,7 +36,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_2_0">Nessa visualiza&ccedil;&atilde;o, a &aacute;rea dos retangulos representa o n&uacute;mero de elementos distintos da classe da API selecionada usada pelos componentes dependentes.</span>\
+                <span id="rtr-s-Rectangle_2_0">Nessa visualiza&ccedil;&atilde;o, a &aacute;rea dos ret&acirc;ngulos representa o n&uacute;mero de elementos distintos da classe da API selecionada usados pelas classes dependentes.</span>\
               </div>\
             </div>\
           </div>\
@@ -168,7 +168,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_3_0">Software com o menor numero de relacionamentos.</span>\
+                <span id="rtr-s-Rectangle_3_0">Software com o menor n&uacute;mero de relacionamentos.</span>\
               </div>\
             </div>\
           </div>\

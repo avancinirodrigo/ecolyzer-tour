@@ -36,7 +36,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_1_0">A &aacute;rea dos retangulos representam o n&uacute;mero de elementos referenci&aacute;veis p&uacute;blicos fornecidos pelas classes, por exemplo: </span><span id="rtr-s-Rectangle_1_1">m&eacute;todos</span><span id="rtr-s-Rectangle_1_2">, </span><span id="rtr-s-Rectangle_1_3">enums</span><span id="rtr-s-Rectangle_1_4">, </span><span id="rtr-s-Rectangle_1_5">interfaces</span><span id="rtr-s-Rectangle_1_6">, </span><span id="rtr-s-Rectangle_1_7">superclasses</span><span id="rtr-s-Rectangle_1_8">, etc. </span>\
+                <span id="rtr-s-Rectangle_1_0">A &aacute;rea dos ret&acirc;ngulos representam o n&uacute;mero de elementos referenci&aacute;veis p&uacute;blicos fornecidos pelas classes, por exemplo: </span><span id="rtr-s-Rectangle_1_1">m&eacute;todos</span><span id="rtr-s-Rectangle_1_2">, </span><span id="rtr-s-Rectangle_1_3">enums</span><span id="rtr-s-Rectangle_1_4">, </span><span id="rtr-s-Rectangle_1_5">interfaces</span><span id="rtr-s-Rectangle_1_6">, </span><span id="rtr-s-Rectangle_1_7">superclasses</span><span id="rtr-s-Rectangle_1_8">, etc. </span>\
               </div>\
             </div>\
           </div>\
@@ -186,7 +186,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_6_0">Classes sem relacionametos</span>\
+                <span id="rtr-s-Rectangle_6_0">Classes sem relacionamentos</span>\
               </div>\
             </div>\
           </div>\
