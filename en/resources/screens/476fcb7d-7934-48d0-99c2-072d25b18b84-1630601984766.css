@@ -1,0 +1,180 @@
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 > #backgroundBox {
+  position: absolute;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1280.0px;
+  max-height: 720.0px;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Image_1 {
+  position: absolute;
+  width: 1280.0px;
+  height: 720.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+_:-ms-fullscreen, :root #s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Image_1 {
+  box-shadow: none;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 .paddingLayer {
+  left: 0.0px;
+  right: -5.6843418860808015E-14px;
+  top: 46.70038884394771px;
+  bottom: 0.0px;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 .content {
+  text-shadow: none;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 {
+  position: absolute;
+  filter: drop-shadow(7.071067811865475px 7.0710678118654755px 2.5px #404040);
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Callout_1 {
+  width: 408.6199628206347px;
+  height: 162.31608826145515px;
+  min-height: 162.31608826145515px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke-width: 2px;
+  stroke: #E2202C;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+_:-ms-fullscreen, :root #s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Callout_1 {
+  box-shadow: 7.071067811865475px 7.0710678118654755px 5px 0px #404040;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 > .backgroundLayer > .colorLayer {
+  background-color: #FFFFFF;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #shapewrapper-s-Callout_1 span#rtr-s-Callout_1_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 {
+  position: absolute;
+  width: 68.0px;
+  min-height: 29.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+
+_:-ms-fullscreen, :root #s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 {
+  box-shadow: none;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 > .backgroundLayer > .colorLayer {
+  background-color: transparent;
+  background-image: -moz-linear-gradient(top,#FFFFFF,#E6E6E6);
+  background-image: -webkit-linear-gradient(top,#FFFFFF,#E6E6E6);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFFFFF), color-stop(100%,#E6E6E6));
+  background-image: -o-linear-gradient(top,#FFFFFF,#E6E6E6);
+  background-image: linear-gradient(to bottom,#FFFFFF,#E6E6E6);
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 > .borderLayer {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #CDCDCD;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #CDCDCD;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #CDCDCD;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #CDCDCD;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #030303;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-476fcb7d-7934-48d0-99c2-072d25b18b84 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
